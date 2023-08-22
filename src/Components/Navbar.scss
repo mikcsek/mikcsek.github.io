@@ -1,0 +1,21 @@
+.navbar-brand {
+    font-family: 'Caveat', cursive;
+    font-weight: 500;
+    font-size: 40px;
+    color: white;
+}
+.background {
+    background-color: rgba(0, 0, 0, 0.8);
+    transition: all 0.5s ease;
+}
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+a {
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+}
+a:hover {
+    color: rgb(207, 207, 207);
+}
